@@ -1,0 +1,14 @@
+.div {
+    position: relative;
+    width: 1000px;
+    margin: 150px auto;
+    font-size: 300%;
+    text-align: center;
+}
+
+.div-date {
+    font-size: 75px;
+}
+.div-time {
+    font-size: 50px;
+}
